@@ -1,5 +1,4 @@
-# tcc
+# Trabalho de Conclusão de Curso
 
-artur zorron
-
-professor geraldo
+Professor orientador: Geraldo Pereira Rocha Filho
+Aluno: Artur Filgueiras Scheiba Zorron
